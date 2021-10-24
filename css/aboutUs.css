@@ -1,0 +1,45 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+ .welcome_section .section_list li{
+ color: blue;
+} 
+
+.welcome_section .section_list li span{
+ color: black;
+} 
+
+.article_section  .article_section_img2{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #1F2B6C;
+opacity: 0.6;
+}
+
+.article_section .article_section_circle .image_art1 {
+ 
+position: absolute;
+left: 47.29%;
+right: 51.39%;
+top: 81.41%;
+bottom: 14.51%;
+background: #FCFEFE;
+border-radius: 50px;
+}
+
+.contact_icon_section .row .card img {
+ 
+position: absolute;
+left: 47.29%;
+right: 51.39%;
+top: 81.41%;
+bottom: 14.51%;
+background: #FCFEFE;
+border-radius: 50px;
+}

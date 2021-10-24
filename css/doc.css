@@ -1,0 +1,30 @@
+.social {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.social img {
+  padding: 5px;
+  border-radius: 50%;
+  background-color: #01015c;
+}
+
+.pa p {
+  font-size: 20px;
+  color: #01015c;
+  margin: 0 auto;
+}
+
+.doc-header {
+  min-height: 120px;
+  background-image: url('doc_images/ani-kolleshi-7jjnJ-QA9fY-unsplash.jpg');
+  min-width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* .doc-header h3 {
+    display: flex;
+    margin-left: 7em;
+    align-self: center;
+} */
